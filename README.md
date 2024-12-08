@@ -33,7 +33,8 @@
         }
 	h1{
             color: #FFFFFF;
-        h1, h2, h3 {
+	}
+        h2, h3 {
             color: #007BFF;
         }
         footer {
