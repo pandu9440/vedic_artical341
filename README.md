@@ -1,4 +1,3 @@
-#vedic_artical341
 <!DOCTYPE html>
 <html lang="en">
 <head>
