@@ -31,7 +31,10 @@
         section {
             margin-bottom: 20px;
         }
-        h1, h2, h3 {
+        h1{
+            color: #FFFFFF;
+}
+         h2, h3 {
             color: #007BFF;
         }
         footer {
